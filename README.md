@@ -4,6 +4,7 @@ Proyek Akhir pada Kelas Belajar Analisis Data dengan Python di Dicoding
 # Proyek Analisis Data: Air Quality
 
 Saya merekomendasikan anda untuk mnegatur direktori seperti berikut :
+```txt
 submission
 ├───Data
 | └───PRSA_Data_20130301-20170228
@@ -13,7 +14,7 @@ submission
 ├───README.md
 └───requirements.txt
 └───url.txt
-
+```
 ## Library Requirements
 Proyek ini menggunakan beberapa library yang sudah disediakan di file requirements.txt. Untuk menginstal library tersebut di lokal dapat menggunakan kode berikut di terminal (CMD di windows):
 ```python
