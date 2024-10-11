@@ -11,7 +11,7 @@ sns.set(style='whitegrid')
 # Fungsi untuk memuat data
 @st.cache_data
 def load_data():
-    return pd.read_csv('https://raw.githubusercontent.com/RizkyAl01/ADPythonDicoding/refs/heads/main/processed_air_quality_dataset.csv')
+    return pd.read_csv('processed_air_quality_dataset.csv')
 
 # Memuat dataset
 data = load_data()
